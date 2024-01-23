@@ -145,15 +145,12 @@
 }
 .icon_wifi{
 	background-image: url("../images/icon_wifi.png");
-  
 }
 .icon_tv{
 	background-image: url("../images/icon_tv.png");
-  
 }
 .icon_pets{
 	background-image: url("../images/icon_pets.png");
-  
 }
 
 footer {
@@ -166,7 +163,7 @@ footer {
     width: 90%;
     margin: 5%;
     -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
   }
 }
